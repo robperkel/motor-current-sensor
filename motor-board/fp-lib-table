@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Current Sensor PCB Library")(type "KiCad")(uri "${KIPRJMOD}/Current Sensor PCB Library.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Current Sensor Sch Library")(type "KiCad")(uri "${KIPRJMOD}/Current Sensor Sch Library.kicad_sym")(options "")(descr ""))
+)
