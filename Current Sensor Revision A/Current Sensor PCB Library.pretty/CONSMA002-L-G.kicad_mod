@@ -154,4 +154,15 @@
 		(remove_unused_layers no)
 		(uuid "5a3265d7-b3e8-4b94-9803-ade99bbd5446")
 	)
+	(model "C:/Users/rober/Downloads/ENG_CVM_CVM_CONSMA002-L-G_A.3d_stp/c-consma002-l-g-a-3d.stp"
+		(offset
+			(xyz 16 0 6.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 180 90)
+		)
+	)
 )

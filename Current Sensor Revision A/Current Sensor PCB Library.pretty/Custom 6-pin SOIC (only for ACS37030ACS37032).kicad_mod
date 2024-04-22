@@ -127,39 +127,50 @@
 		)
 	)
 	(pad "1" smd rect
-		(at -1.905 -1.27)
+		(at -2.89 -1.27)
 		(size 1.58 1.92)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "ef7c62fb-9174-483b-bae9-e24a36f600f5")
 	)
 	(pad "2" smd rect
-		(at -1.905 1.27)
+		(at -2.89 1.27)
 		(size 1.58 1.92)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "6da6a869-5c64-48a5-a484-cd3e09c242c6")
 	)
 	(pad "3" smd rect
-		(at 1.905 1.905)
+		(at 2.89 1.905)
 		(size 1.58 0.65)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "40188354-052b-408e-a659-22b644579234")
 	)
 	(pad "4" smd rect
-		(at 1.905 0.635)
+		(at 2.89 0.635)
 		(size 1.58 0.65)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "90875d30-959a-4822-8e4a-355f6f639a25")
 	)
 	(pad "5" smd rect
-		(at 1.905 -0.635)
+		(at 2.89 -0.635)
 		(size 1.58 0.65)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "7d10799d-f89e-448e-89ac-edba5c442f27")
 	)
 	(pad "6" smd rect
-		(at 1.905 -1.905)
+		(at 2.89 -1.905)
 		(size 1.58 0.65)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "d7bd8ebc-da4a-4d75-a071-1f516a398bf9")
+	)
+	(model "C:/Users/rober/Downloads/LIB_ACS37030LLZATR-040B3/ACS37030LLZATR-040B3/3D/ACS37030LLZATR-040B3.stp"
+		(offset
+			(xyz 0 0 1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 90)
+		)
 	)
 )

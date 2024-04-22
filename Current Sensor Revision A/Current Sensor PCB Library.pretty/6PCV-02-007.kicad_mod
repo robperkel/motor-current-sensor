@@ -145,4 +145,15 @@
 		(remove_unused_layers no)
 		(uuid "dc15419b-0ac5-43a8-8355-13f1a5b1ca52")
 	)
+	(model "C:/Users/rober/Downloads/6PCV_02_007/c-4-1437652-0-p-3d.stp"
+		(offset
+			(xyz 0 -13 7)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
 )

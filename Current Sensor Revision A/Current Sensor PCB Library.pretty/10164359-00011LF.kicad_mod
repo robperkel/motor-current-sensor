@@ -185,4 +185,15 @@
 		(roundrect_rratio 0.5)
 		(uuid "161d25f4-9255-4616-bba7-abf6c88177e1")
 	)
+	(model "C:/Users/rober/Downloads/2171750001/2171750001.step"
+		(offset
+			(xyz 0 -3.8 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
 )
